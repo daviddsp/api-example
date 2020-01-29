@@ -15,7 +15,7 @@ module.exports = (sequelize, type) => {
 			},
 			comments: {
 				type: type.STRING,
-			},
+			}
 		},
 		{
 			timestamps: true,
